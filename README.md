@@ -1,1 +1,1 @@
-# TestAtomationCouse
+# TestAtomationCourse
